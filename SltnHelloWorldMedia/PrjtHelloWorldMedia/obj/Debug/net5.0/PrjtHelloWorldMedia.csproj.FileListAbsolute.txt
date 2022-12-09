@@ -1,0 +1,16 @@
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.exe
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.deps.json
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.runtimeconfig.json
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.runtimeconfig.dev.json
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.dll
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\ref\PrjtHelloWorldMedia.dll
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\bin\Debug\net5.0\PrjtHelloWorldMedia.pdb
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.csproj.AssemblyReference.cache
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.AssemblyInfoInputs.cache
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.AssemblyInfo.cs
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.csproj.CoreCompileInputs.cache
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.dll
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\ref\PrjtHelloWorldMedia.dll
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.pdb
+C:\Users\caua.schagas\source\repos\SltnHelloWorldMedia\PrjtHelloWorldMedia\obj\Debug\net5.0\PrjtHelloWorldMedia.genruntimeconfig.cache

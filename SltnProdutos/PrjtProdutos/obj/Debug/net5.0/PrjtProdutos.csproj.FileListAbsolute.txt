@@ -1,0 +1,16 @@
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.exe
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.deps.json
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.runtimeconfig.json
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.runtimeconfig.dev.json
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.dll
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\ref\PrjtProdutos.dll
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\bin\Debug\net5.0\PrjtProdutos.pdb
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.AssemblyInfoInputs.cache
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.AssemblyInfo.cs
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.csproj.CoreCompileInputs.cache
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.dll
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\ref\PrjtProdutos.dll
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.pdb
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.genruntimeconfig.cache
+C:\Users\caua.schagas\source\repos\SltnProdutos\PrjtProdutos\obj\Debug\net5.0\PrjtProdutos.csproj.AssemblyReference.cache

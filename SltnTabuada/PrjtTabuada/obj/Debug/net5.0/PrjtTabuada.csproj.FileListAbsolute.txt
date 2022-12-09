@@ -1,0 +1,16 @@
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.exe
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.deps.json
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.runtimeconfig.json
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.runtimeconfig.dev.json
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.dll
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\ref\PrjtTabuada.dll
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\bin\Debug\net5.0\PrjtTabuada.pdb
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.csproj.AssemblyReference.cache
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.AssemblyInfoInputs.cache
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.AssemblyInfo.cs
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.csproj.CoreCompileInputs.cache
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.dll
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\ref\PrjtTabuada.dll
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.pdb
+C:\Users\caua.schagas\source\repos\SltnTabuada\PrjtTabuada\obj\Debug\net5.0\PrjtTabuada.genruntimeconfig.cache
